@@ -1,0 +1,247 @@
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\makine ekipman.exe.config
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\makine ekipman.exe
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\makine ekipman.pdb
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csprojResolveAssemblyReference.cache
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form1.resources
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Properties.Resources.resources
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.GenerateResource.Cache
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine ekipman.exe
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine ekipman.pdb
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\Interop.LCC11.dll
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.ResolveComReference.cache
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\MySql.Data.dll
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\MySql.Web.dll
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\Google.Protobuf.dll
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\MySql.Data.xml
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\MySql.Data.Entity.EF6.xml
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\bin\Debug\MySql.Web.xml
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.makine ekipman.exe.config
+c:\users\furkan bozkurt\documents\visual studio 2017\Projects\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form2.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.exe.config
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.exe
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.pdb
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Data.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Web.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Google.Protobuf.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Data.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Web.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csprojResolveAssemblyReference.cache
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\Interop.LCC11.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.ResolveComReference.cache
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form1.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form2.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Properties.Resources.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.GenerateResource.Cache
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.exe
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.pdb
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form3.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csprojResolveAssemblyReference.cache
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\Interop.LCC11.dll
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.exe
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.pdb
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.exe.config
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.exe
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.pdb
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Google.Protobuf.dll
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Data.xml
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Web.xml
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.ResolveComReference.cache
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form1.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form2.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form3.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Properties.Resources.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.GenerateResource.Cache
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.capa.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Dip.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Ekim.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Bicme.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Goble.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Gubre.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.ilaclama.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.merdane.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.pulluk.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Romork.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.rotovator.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.tesviye.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.tirmik.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Yukleme.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Romork.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Bicme_Makinesi.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Capa_Makinesi.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form4.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Ekim_Makinesi.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Goble.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Gubre_Serpme_Makinesi.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Kultuvator_Makinesi.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Merdane.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Pulluk.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Rotovator.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Tesfiye_Kuregi.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Tırmık.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Yukleme_Kepcesi.resources
+C:\Users\usr\Documents\Visual Studio 2017\Projects\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_İlaclama_Makinesi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.capa.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Dip.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Ekim.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Bicme.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Goble.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Gubre.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.ilaclama.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.merdane.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.pulluk.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Romork.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.rotovator.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Romork.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Bicme_Makinesi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Capa_Makinesi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form4.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Ekim_Makinesi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Goble.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Gubre_Serpme_Makinesi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Kultuvator_Makinesi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Merdane.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Pulluk.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Rotovator.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Tesfiye_Kuregi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Tırmık.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Yukleme_Kepcesi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_İlaclama_Makinesi.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.tesviye.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.tirmik.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Yukleme.resources
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Furkan BOZKURT\Desktop\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.exe.config
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.exe
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\makine ekipman.pdb
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Google.Protobuf.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Data.v17.1.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Data.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\MySql.Web.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csprojResolveAssemblyReference.cache
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.ResolveComReference.cache
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.capa.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Dip.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Ekim.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form1.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form2.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form3.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Bicme.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Goble.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Gubre.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.ilaclama.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.merdane.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Properties.Resources.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.pulluk.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Romork.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.rotovator.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Romork.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Bicme_Makinesi.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Capa_Makinesi.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Form4.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Ekim_Makinesi.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Goble.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Gubre_Serpme_Makinesi.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Kultuvator_Makinesi.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Merdane.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Pulluk.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Rotovator.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Tesfiye_Kuregi.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Tırmık.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_Yukleme_Kepcesi.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Teklif_İlaclama_Makinesi.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.tesviye.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.tirmik.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine_ekipman.Yukleme.resources
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.GenerateResource.cache
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.CoreCompileInputs.cache
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.csproj.CopyComplete
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.exe
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\makine ekipman.pdb
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\Interop.ACTIVEXLib.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\Interop.TFCOfficeShimLib.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\obj\Debug\Interop.VSTOEE100.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.9.0.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Microsoft.MSXML.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\projelerim\makine ekipman\makine ekipman\makine ekipman\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
